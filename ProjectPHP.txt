@@ -3,3 +3,4 @@ Project PHP
 - Membuat project PHP dan framework.
 - Banyak latihan dan ikut komunitas
 - Preview
+- Penggabungan project
